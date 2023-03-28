@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"> Taxi manager </string>
+    <string name="user_name"> Tên đăng nhập : </string>
+    <string name="Pass_word"> Mật khẩu : </string>
+    <string name="Login_button"> Đăng nhập </string>
+    <string name="login_tx"> LOGIN </string>
+    <string name="forgot_pass"> Quên mật khẩu </string>
+    <string name="register_tx"> Đăng ký </string>
+    <string name="register"> REGISTER </string>
+    <string name="name_tv"> Name : </string>
+    <string name="dangky"> Đăng ký </string>
+    <string name="gmail"> Gmail : </string>
+    <string name="username"> Username : </string>
+    <string name="password"> Password : </string>
+    <string name="dang_nhap"> Đăng nhập </string>
+    <string name="login"> Đăng nhập </string>
+    <string name="register_button"> Đăng ký </string>
+</resources>
